@@ -1,0 +1,75 @@
+/*!
+ * Landing Page (https://cyfer.com.br/)
+ * Copyright 2021 Fernando Filho
+ * License (https://github.com/)
+
+
+/* container principal */
+p {color: white;}
+h1 {color: white;}
+h2 {color: white;}
+h3 {color: white;}
+
+.ct1{
+  background-color: #1A1A1A;
+}
+
+.video1 {
+  margin-top: 50px;
+}
+
+.btn {
+  margin: 40px 0;
+  font-size: 2.10rem !important;
+}
+
+.oi {padding-bottom: 40px;}
+
+.sobreautora {
+  color: #1A1A1A;
+  text-align: left;
+}
+.sobreautoraimg {
+  margin: 40px 0;
+}
+
+#depotlt {
+  color: #d32f2e;
+  margin-top: 5px;
+}
+#depotxt {
+  color: #1A1A1A;
+  margin-top: 5px;
+}
+
+.extras {
+  background-color: #1A1A1A;
+}
+#extratxt {
+  padding: 40px;
+}
+.faqtxt {
+  color: black;
+  margin-top: 10px;
+}
+
+.ct6{
+  background-color: #1A1A1A;
+  padding-top: 40px;
+  margin-top: 40px;
+}
+
+.copy {
+  text-align: center;
+  padding: 20px;
+  color: #1A1A1A;
+}
+
+.mercadopago-button {
+  width: 450px;
+  height: 85px;
+  font-size: 2em !important;
+  background-color: #dc3545 !important;
+  margin: 40px 0;
+  padding: 0 !important;
+}

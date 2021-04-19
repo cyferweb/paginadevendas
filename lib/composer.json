@@ -1,0 +1,13 @@
+{
+    "name": "cyfer/mp",
+    "description": "Pagina de vendas com mercado pago",
+    "authors": [
+        {
+            "name": "Fernando Filho",
+            "email": "contato@cyfer.com.br"
+        }
+    ],
+    "require": {
+        "mercadopago/dx-php": "2.2.1"
+    }
+}
